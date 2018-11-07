@@ -6,7 +6,11 @@
     "tenmh": "Nhập môn công nghệ phần mềm",
     "diemtk": "5.3",
     "diemch": "D+",
-    "diemhe4": "1.5"
+    "diemhe4": "1.5",
+    "diemth" : "5",
+    "diemkt1": "6",
+    "diemcc": "7",
+    "diemthi": "5"
   },
   {
     "nhhk": "20172",
@@ -15,7 +19,11 @@
     "tenmh": "Nhập môn trí tuệ nhân tạo",
     "diemtk": "8.6",
     "diemch": "A",
-    "diemhe4": "4.0"
+    "diemhe4": "4.0",
+    "diemth" : "10",
+    "diemkt1": "9",
+    "diemcc": "7",
+    "diemthi": "9"
   },
   {
     "nhhk": "20172",
@@ -24,7 +32,11 @@
     "tenmh": "Kỹ thuật đồ họa",
     "diemtk": "8.2",
     "diemch": "B+",
-    "diemhe4": "3.5"
+    "diemhe4": "3.5",
+    "diemth" : "8",
+    "diemkt1": "9",
+    "diemcc": "7",
+    "diemthi": "8.5"
   },
   {
     "nhhk": "20172",
@@ -33,7 +45,11 @@
     "tenmh": "Xử lý ảnh",
     "diemtk": "6.4",
     "diemch": "C",
-    "diemhe4": "2"
+    "diemhe4": "2",
+     "diemth" : "5",
+    "diemkt1": "6",
+    "diemcc": "7",
+    "diemthi": "6.5"
   },
   {
     "nhhk": "20172",
@@ -42,7 +58,11 @@
     "tenmh": "An toàn và bảo mật hệ thống thông tin",
     "diemtk": "8.1",
     "diemch": "B+",
-    "diemhe4": "3.5"
+    "diemhe4": "3.5",
+    "diemth" : "8",
+    "diemkt1": "9",
+    "diemcc": "8",
+    "diemthi": "8"
   },
   {
     "nhhk": "20172",
@@ -51,6 +71,10 @@
     "tenmh": "Mạng máy tính",
     "diemtk": "8.2",
     "diemch": "B+",
-    "diemhe4": "3.5"
+    "diemhe4": "3.5",
+    "diemth" : "8",
+    "diemkt1": "10",
+    "diemcc": "8",
+    "diemthi": "8"
   }
 ]
