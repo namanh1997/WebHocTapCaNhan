@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "nhhk": "20172",
     "masv": "B15DCCN164",
@@ -10,7 +10,8 @@
     "diemth" : "5",
     "diemkt1": "6",
     "diemcc": "7",
-    "diemthi": "5"
+    "diemthi": "5",
+    "sotinchi": "3"
   },
   {
     "nhhk": "20172",
@@ -23,7 +24,8 @@
     "diemth" : "10",
     "diemkt1": "9",
     "diemcc": "7",
-    "diemthi": "9"
+    "diemthi": "9",
+    "sotinchi": "3"
   },
   {
     "nhhk": "20172",
@@ -36,7 +38,8 @@
     "diemth" : "8",
     "diemkt1": "9",
     "diemcc": "7",
-    "diemthi": "8.5"
+    "diemthi": "8.5",
+    "sotinchi": "2"
   },
   {
     "nhhk": "20172",
@@ -49,7 +52,8 @@
      "diemth" : "5",
     "diemkt1": "6",
     "diemcc": "7",
-    "diemthi": "6.5"
+    "diemthi": "6.5",
+    "sotinchi": "2"
   },
   {
     "nhhk": "20172",
@@ -62,7 +66,8 @@
     "diemth" : "8",
     "diemkt1": "9",
     "diemcc": "8",
-    "diemthi": "8"
+    "diemthi": "8",
+    "sotinchi": "3"
   },
   {
     "nhhk": "20172",
@@ -75,6 +80,77 @@
     "diemth" : "8",
     "diemkt1": "10",
     "diemcc": "8",
-    "diemthi": "8"
+    "diemthi": "8",
+    "sotinchi": "3"
+  },
+  {
+    "nhhk": "20171",
+    "masv": "B15DCCN164",
+    "mamh": "SKD1108",
+    "tenmh": "Phương pháp luận nghiên cứu khoa học",
+    "diemtk": "7.1",
+    "diemch": "B",
+    "diemhe4": "3",
+    "diemth" : "7",
+    "diemkt1": "7",
+    "diemcc": "8",
+    "diemthi": "7",
+    "sotinchi": "2"
+  },
+  {
+    "nhhk": "20171",
+    "masv": "B15DCCN164",
+    "mamh": "INT1319",
+    "tenmh": "Hệ điều hành",
+    "diemtk": "5.1",
+    "diemch": "D+",
+    "diemhe4": "1.5",
+    "diemth" : "8",
+    "diemkt1": "8",
+    "diemcc": "10",
+    "diemthi": "3.5",
+    "sotinchi": "3"
+  },
+  {
+    "nhhk": "20171",
+    "masv": "B15DCCN164",
+    "mamh": "INT1313",
+    "tenmh": "Cơ sở dữ liệu",
+    "diemtk": "8.3",
+    "diemch": "B+",
+    "diemhe4": "3.5",
+    "diemth" : "8.5",
+    "diemkt1": "10",
+    "diemcc": "8",
+    "diemthi": "8",
+    "sotinchi": "3"
+  },
+  {
+    "nhhk": "20171",
+    "masv": "B15DCCN164",
+    "mamh": "INT1330",
+    "tenmh": "Kỹ thuật vi xử lý",
+    "diemtk": "3.2",
+    "diemch": "F",
+    "diemhe4": "0.0",
+    "diemth" : "10",
+    "diemkt1": "6",
+    "diemcc": "5",
+    "diemthi": "1",
+    "sotinchi": "3"
+  },
+  {
+    "nhhk": "20171",
+    "masv": "B15DCCN164",
+    "mamh": "INT1332",
+    "tenmh": "Lập trình hướng đối tượng",
+    "diemtk": "5.5",
+    "diemch": "C",
+    "diemhe4": "2",
+    "diemth" : "10",
+    "diemkt1": "6.5",
+    "diemcc": "6",
+    "diemthi": "4", 
+    "sotinchi": "3"
   }
 ]
